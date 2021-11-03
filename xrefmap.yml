@@ -1,0 +1,280 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: lab3_Task1
+  name: lab3_Task1
+  href: api/lab3_Task1.html
+  commentId: N:lab3_Task1
+  fullName: lab3_Task1
+  nameWithType: lab3_Task1
+- uid: lab3_Task1.Book
+  name: Book
+  href: api/lab3_Task1.Book.html
+  commentId: T:lab3_Task1.Book
+  fullName: lab3_Task1.Book
+  nameWithType: Book
+- uid: lab3_Task1.Book.#ctor
+  name: Book()
+  href: api/lab3_Task1.Book.html#lab3_Task1_Book__ctor
+  commentId: M:lab3_Task1.Book.#ctor
+  fullName: lab3_Task1.Book.Book()
+  nameWithType: Book.Book()
+- uid: lab3_Task1.Book.#ctor(System.String,System.Int32,System.Int32)
+  name: Book(String, Int32, Int32)
+  href: api/lab3_Task1.Book.html#lab3_Task1_Book__ctor_System_String_System_Int32_System_Int32_
+  commentId: M:lab3_Task1.Book.#ctor(System.String,System.Int32,System.Int32)
+  fullName: lab3_Task1.Book.Book(System.String, System.Int32, System.Int32)
+  nameWithType: Book.Book(String, Int32, Int32)
+- uid: lab3_Task1.Book.#ctor(System.String,System.String,System.Int32,System.Int32)
+  name: Book(String, String, Int32, Int32)
+  href: api/lab3_Task1.Book.html#lab3_Task1_Book__ctor_System_String_System_String_System_Int32_System_Int32_
+  commentId: M:lab3_Task1.Book.#ctor(System.String,System.String,System.Int32,System.Int32)
+  fullName: lab3_Task1.Book.Book(System.String, System.String, System.Int32, System.Int32)
+  nameWithType: Book.Book(String, String, Int32, Int32)
+- uid: lab3_Task1.Book.#ctor(System.String,System.String,System.Int32,System.Int32,System.Boolean)
+  name: Book(String, String, Int32, Int32, Boolean)
+  href: api/lab3_Task1.Book.html#lab3_Task1_Book__ctor_System_String_System_String_System_Int32_System_Int32_System_Boolean_
+  commentId: M:lab3_Task1.Book.#ctor(System.String,System.String,System.Int32,System.Int32,System.Boolean)
+  fullName: lab3_Task1.Book.Book(System.String, System.String, System.Int32, System.Int32, System.Boolean)
+  nameWithType: Book.Book(String, String, Int32, Int32, Boolean)
+- uid: lab3_Task1.Book.#ctor*
+  name: Book
+  href: api/lab3_Task1.Book.html#lab3_Task1_Book__ctor_
+  commentId: Overload:lab3_Task1.Book.#ctor
+  isSpec: "True"
+  fullName: lab3_Task1.Book.Book
+  nameWithType: Book.Book
+- uid: lab3_Task1.Book.Genre
+  name: Genre
+  href: api/lab3_Task1.Book.html#lab3_Task1_Book_Genre
+  commentId: P:lab3_Task1.Book.Genre
+  fullName: lab3_Task1.Book.Genre
+  nameWithType: Book.Genre
+- uid: lab3_Task1.Book.Genre*
+  name: Genre
+  href: api/lab3_Task1.Book.html#lab3_Task1_Book_Genre_
+  commentId: Overload:lab3_Task1.Book.Genre
+  isSpec: "True"
+  fullName: lab3_Task1.Book.Genre
+  nameWithType: Book.Genre
+- uid: lab3_Task1.Book.Print
+  name: Print()
+  href: api/lab3_Task1.Book.html#lab3_Task1_Book_Print
+  commentId: M:lab3_Task1.Book.Print
+  fullName: lab3_Task1.Book.Print()
+  nameWithType: Book.Print()
+- uid: lab3_Task1.Book.Print*
+  name: Print
+  href: api/lab3_Task1.Book.html#lab3_Task1_Book_Print_
+  commentId: Overload:lab3_Task1.Book.Print
+  isSpec: "True"
+  fullName: lab3_Task1.Book.Print
+  nameWithType: Book.Print
+- uid: lab3_Task1.Magazine
+  name: Magazine
+  href: api/lab3_Task1.Magazine.html
+  commentId: T:lab3_Task1.Magazine
+  fullName: lab3_Task1.Magazine
+  nameWithType: Magazine
+- uid: lab3_Task1.Magazine.#ctor
+  name: Magazine()
+  href: api/lab3_Task1.Magazine.html#lab3_Task1_Magazine__ctor
+  commentId: M:lab3_Task1.Magazine.#ctor
+  fullName: lab3_Task1.Magazine.Magazine()
+  nameWithType: Magazine.Magazine()
+- uid: lab3_Task1.Magazine.#ctor(System.String,System.Int32,System.Int32)
+  name: Magazine(String, Int32, Int32)
+  href: api/lab3_Task1.Magazine.html#lab3_Task1_Magazine__ctor_System_String_System_Int32_System_Int32_
+  commentId: M:lab3_Task1.Magazine.#ctor(System.String,System.Int32,System.Int32)
+  fullName: lab3_Task1.Magazine.Magazine(System.String, System.Int32, System.Int32)
+  nameWithType: Magazine.Magazine(String, Int32, Int32)
+- uid: lab3_Task1.Magazine.#ctor(System.String,System.String,System.Int32,System.Int32)
+  name: Magazine(String, String, Int32, Int32)
+  href: api/lab3_Task1.Magazine.html#lab3_Task1_Magazine__ctor_System_String_System_String_System_Int32_System_Int32_
+  commentId: M:lab3_Task1.Magazine.#ctor(System.String,System.String,System.Int32,System.Int32)
+  fullName: lab3_Task1.Magazine.Magazine(System.String, System.String, System.Int32, System.Int32)
+  nameWithType: Magazine.Magazine(String, String, Int32, Int32)
+- uid: lab3_Task1.Magazine.#ctor(System.String,System.String,System.Int32,System.Int32,System.Boolean)
+  name: Magazine(String, String, Int32, Int32, Boolean)
+  href: api/lab3_Task1.Magazine.html#lab3_Task1_Magazine__ctor_System_String_System_String_System_Int32_System_Int32_System_Boolean_
+  commentId: M:lab3_Task1.Magazine.#ctor(System.String,System.String,System.Int32,System.Int32,System.Boolean)
+  fullName: lab3_Task1.Magazine.Magazine(System.String, System.String, System.Int32, System.Int32, System.Boolean)
+  nameWithType: Magazine.Magazine(String, String, Int32, Int32, Boolean)
+- uid: lab3_Task1.Magazine.#ctor*
+  name: Magazine
+  href: api/lab3_Task1.Magazine.html#lab3_Task1_Magazine__ctor_
+  commentId: Overload:lab3_Task1.Magazine.#ctor
+  isSpec: "True"
+  fullName: lab3_Task1.Magazine.Magazine
+  nameWithType: Magazine.Magazine
+- uid: lab3_Task1.Magazine.Print
+  name: Print()
+  href: api/lab3_Task1.Magazine.html#lab3_Task1_Magazine_Print
+  commentId: M:lab3_Task1.Magazine.Print
+  fullName: lab3_Task1.Magazine.Print()
+  nameWithType: Magazine.Print()
+- uid: lab3_Task1.Magazine.Print*
+  name: Print
+  href: api/lab3_Task1.Magazine.html#lab3_Task1_Magazine_Print_
+  commentId: Overload:lab3_Task1.Magazine.Print
+  isSpec: "True"
+  fullName: lab3_Task1.Magazine.Print
+  nameWithType: Magazine.Print
+- uid: lab3_Task1.Magazine.ReadAdress
+  name: ReadAdress
+  href: api/lab3_Task1.Magazine.html#lab3_Task1_Magazine_ReadAdress
+  commentId: P:lab3_Task1.Magazine.ReadAdress
+  fullName: lab3_Task1.Magazine.ReadAdress
+  nameWithType: Magazine.ReadAdress
+- uid: lab3_Task1.Magazine.ReadAdress*
+  name: ReadAdress
+  href: api/lab3_Task1.Magazine.html#lab3_Task1_Magazine_ReadAdress_
+  commentId: Overload:lab3_Task1.Magazine.ReadAdress
+  isSpec: "True"
+  fullName: lab3_Task1.Magazine.ReadAdress
+  nameWithType: Magazine.ReadAdress
+- uid: lab3_Task1.PrintEdition
+  name: PrintEdition
+  href: api/lab3_Task1.PrintEdition.html
+  commentId: T:lab3_Task1.PrintEdition
+  fullName: lab3_Task1.PrintEdition
+  nameWithType: PrintEdition
+- uid: lab3_Task1.PrintEdition.#ctor
+  name: PrintEdition()
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition__ctor
+  commentId: M:lab3_Task1.PrintEdition.#ctor
+  fullName: lab3_Task1.PrintEdition.PrintEdition()
+  nameWithType: PrintEdition.PrintEdition()
+- uid: lab3_Task1.PrintEdition.#ctor(System.String)
+  name: PrintEdition(String)
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition__ctor_System_String_
+  commentId: M:lab3_Task1.PrintEdition.#ctor(System.String)
+  fullName: lab3_Task1.PrintEdition.PrintEdition(System.String)
+  nameWithType: PrintEdition.PrintEdition(String)
+- uid: lab3_Task1.PrintEdition.#ctor(System.String,System.Int32,System.Int32)
+  name: PrintEdition(String, Int32, Int32)
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition__ctor_System_String_System_Int32_System_Int32_
+  commentId: M:lab3_Task1.PrintEdition.#ctor(System.String,System.Int32,System.Int32)
+  fullName: lab3_Task1.PrintEdition.PrintEdition(System.String, System.Int32, System.Int32)
+  nameWithType: PrintEdition.PrintEdition(String, Int32, Int32)
+- uid: lab3_Task1.PrintEdition.#ctor(System.String,System.String,System.Int32,System.Int32)
+  name: PrintEdition(String, String, Int32, Int32)
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition__ctor_System_String_System_String_System_Int32_System_Int32_
+  commentId: M:lab3_Task1.PrintEdition.#ctor(System.String,System.String,System.Int32,System.Int32)
+  fullName: lab3_Task1.PrintEdition.PrintEdition(System.String, System.String, System.Int32, System.Int32)
+  nameWithType: PrintEdition.PrintEdition(String, String, Int32, Int32)
+- uid: lab3_Task1.PrintEdition.#ctor(System.String,System.String,System.Int32,System.Int32,System.Boolean)
+  name: PrintEdition(String, String, Int32, Int32, Boolean)
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition__ctor_System_String_System_String_System_Int32_System_Int32_System_Boolean_
+  commentId: M:lab3_Task1.PrintEdition.#ctor(System.String,System.String,System.Int32,System.Int32,System.Boolean)
+  fullName: lab3_Task1.PrintEdition.PrintEdition(System.String, System.String, System.Int32, System.Int32, System.Boolean)
+  nameWithType: PrintEdition.PrintEdition(String, String, Int32, Int32, Boolean)
+- uid: lab3_Task1.PrintEdition.#ctor*
+  name: PrintEdition
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition__ctor_
+  commentId: Overload:lab3_Task1.PrintEdition.#ctor
+  isSpec: "True"
+  fullName: lab3_Task1.PrintEdition.PrintEdition
+  nameWithType: PrintEdition.PrintEdition
+- uid: lab3_Task1.PrintEdition.isAvailable
+  name: isAvailable
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_isAvailable
+  commentId: F:lab3_Task1.PrintEdition.isAvailable
+  fullName: lab3_Task1.PrintEdition.isAvailable
+  nameWithType: PrintEdition.isAvailable
+- uid: lab3_Task1.PrintEdition.IsAvailable
+  name: IsAvailable
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_IsAvailable
+  commentId: P:lab3_Task1.PrintEdition.IsAvailable
+  fullName: lab3_Task1.PrintEdition.IsAvailable
+  nameWithType: PrintEdition.IsAvailable
+- uid: lab3_Task1.PrintEdition.IsAvailable*
+  name: IsAvailable
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_IsAvailable_
+  commentId: Overload:lab3_Task1.PrintEdition.IsAvailable
+  isSpec: "True"
+  fullName: lab3_Task1.PrintEdition.IsAvailable
+  nameWithType: PrintEdition.IsAvailable
+- uid: lab3_Task1.PrintEdition.name
+  name: name
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_name
+  commentId: F:lab3_Task1.PrintEdition.name
+  fullName: lab3_Task1.PrintEdition.name
+  nameWithType: PrintEdition.name
+- uid: lab3_Task1.PrintEdition.Name
+  name: Name
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_Name
+  commentId: P:lab3_Task1.PrintEdition.Name
+  fullName: lab3_Task1.PrintEdition.Name
+  nameWithType: PrintEdition.Name
+- uid: lab3_Task1.PrintEdition.Name*
+  name: Name
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_Name_
+  commentId: Overload:lab3_Task1.PrintEdition.Name
+  isSpec: "True"
+  fullName: lab3_Task1.PrintEdition.Name
+  nameWithType: PrintEdition.Name
+- uid: lab3_Task1.PrintEdition.p_amount
+  name: p_amount
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_p_amount
+  commentId: F:lab3_Task1.PrintEdition.p_amount
+  fullName: lab3_Task1.PrintEdition.p_amount
+  nameWithType: PrintEdition.p_amount
+- uid: lab3_Task1.PrintEdition.P_Amount
+  name: P_Amount
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_P_Amount
+  commentId: P:lab3_Task1.PrintEdition.P_Amount
+  fullName: lab3_Task1.PrintEdition.P_Amount
+  nameWithType: PrintEdition.P_Amount
+- uid: lab3_Task1.PrintEdition.P_Amount*
+  name: P_Amount
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_P_Amount_
+  commentId: Overload:lab3_Task1.PrintEdition.P_Amount
+  isSpec: "True"
+  fullName: lab3_Task1.PrintEdition.P_Amount
+  nameWithType: PrintEdition.P_Amount
+- uid: lab3_Task1.PrintEdition.price
+  name: price
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_price
+  commentId: F:lab3_Task1.PrintEdition.price
+  fullName: lab3_Task1.PrintEdition.price
+  nameWithType: PrintEdition.price
+- uid: lab3_Task1.PrintEdition.Price
+  name: Price
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_Price
+  commentId: P:lab3_Task1.PrintEdition.Price
+  fullName: lab3_Task1.PrintEdition.Price
+  nameWithType: PrintEdition.Price
+- uid: lab3_Task1.PrintEdition.Price*
+  name: Price
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_Price_
+  commentId: Overload:lab3_Task1.PrintEdition.Price
+  isSpec: "True"
+  fullName: lab3_Task1.PrintEdition.Price
+  nameWithType: PrintEdition.Price
+- uid: lab3_Task1.PrintEdition.Print
+  name: Print()
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_Print
+  commentId: M:lab3_Task1.PrintEdition.Print
+  fullName: lab3_Task1.PrintEdition.Print()
+  nameWithType: PrintEdition.Print()
+- uid: lab3_Task1.PrintEdition.Print*
+  name: Print
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_Print_
+  commentId: Overload:lab3_Task1.PrintEdition.Print
+  isSpec: "True"
+  fullName: lab3_Task1.PrintEdition.Print
+  nameWithType: PrintEdition.Print
+- uid: lab3_Task1.PrintEdition.Type
+  name: Type
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_Type
+  commentId: P:lab3_Task1.PrintEdition.Type
+  fullName: lab3_Task1.PrintEdition.Type
+  nameWithType: PrintEdition.Type
+- uid: lab3_Task1.PrintEdition.Type*
+  name: Type
+  href: api/lab3_Task1.PrintEdition.html#lab3_Task1_PrintEdition_Type_
+  commentId: Overload:lab3_Task1.PrintEdition.Type
+  isSpec: "True"
+  fullName: lab3_Task1.PrintEdition.Type
+  nameWithType: PrintEdition.Type
