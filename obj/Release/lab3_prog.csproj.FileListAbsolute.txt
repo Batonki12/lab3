@@ -1,0 +1,5 @@
+C:\Users\1\Desktop\lab1(Arch)\lab3_prog\bin\Release\lab3_prog.dll
+C:\Users\1\Desktop\lab1(Arch)\lab3_prog\bin\Release\lab3_prog.pdb
+C:\Users\1\Desktop\lab1(Arch)\lab3_prog\obj\Release\lab3_prog.dll
+C:\Users\1\Desktop\lab1(Arch)\lab3_prog\obj\Release\lab3_prog.pdb
+C:\Users\1\Desktop\lab1(Arch)\lab3_prog\obj\Release\lab3_prog.csprojResolveAssemblyReference.cache
